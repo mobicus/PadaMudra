@@ -1,2 +1,2 @@
 # PadaMudra
-Pada Mudra Gait Analysis in C++
+Pada Mudra Gait Analysis in Python
