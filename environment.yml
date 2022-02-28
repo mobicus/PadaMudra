@@ -1,4 +1,4 @@
-name: pySideEnv
+name: BIOMEnv
 channels:
   - conda-forge
   - defaults
